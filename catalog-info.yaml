@@ -7,14 +7,14 @@ metadata:
   description: |
     "Cinema Tickets developer challenge (Java)"
   annotations:
-    gitlab.com/project-slug: https://gitlab.com/dwp/recruitment-assessments/software-engineer/cinema-tickets-rest-java.git
+    gitlab.com/project-slug: https://github.com/Sachin300793/sachin-cinema-ticket-solution
   labels:
     dwp.gov.uk/version: 0.0.1-SNAPSHOT
     dwp.gov.uk/license: MIT
-    dwp.gov.uk/last-verified.by: "david-nicklin"
-    dwp.gov.uk/last-verified.on: "2026-05-11"
+    dwp.gov.uk/last-verified.by: "sachin-sharma"
+    dwp.gov.uk/last-verified.on: "2026-05-16"
     dwp.gov.uk/open-source.approved: "true"
-    dwp.gov.uk/open-source.location: https://github.com/dwp/cinema-tickets-rest-java
+    dwp.gov.uk/open-source.location: https://github.com/Sachin300793/sachin-cinema-ticket-solution
     dwp.gov.uk/impacts.audit: "false"
     dwp.gov.uk/impacts.authentication: "false"
     dwp.gov.uk/impacts.authorisation: "false"

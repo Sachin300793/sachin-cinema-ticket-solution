@@ -17,3 +17,16 @@ springframework
 surefire
 texthooks
 thirdparty
+pitest
+spotbugs
+mockito
+cucumber
+arcmutate
+sachin
+BigDecimal
+debitAccount
+reserveSeats
+ticketCount
+ticketRequests
+InvalidBookingException
+CinemaTickets
