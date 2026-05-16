@@ -1,7 +1,19 @@
+### Maven ###
 target/
+*.jar
+*.war
 
 ### IntelliJ IDEA ###
 .idea/
+*.iml
 
-### Ignore Mac files
+### Mac ###
 .DS_Store
+.AppleDouble
+.LSOverride
+
+### Cucumber reports ###
+cucumber-reports/
+
+### SpotBugs ###
+spotbugsXml.xml

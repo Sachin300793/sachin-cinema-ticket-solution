@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FindBugsFilter>
+
+<Match>
+    <Class name="uk.gov.dwp.engineering.recruitment.CinemaTicketsController"/>
+</Match>
+
+<Match>
+    <Class name="uk.gov.dwp.engineering.recruitment.domain.Booking"/>
+</Match>
+
+<Match>
+    <Class name="uk.gov.dwp.engineering.recruitment.thirdparty.PaymentServiceImpl"/>
+</Match>
+
+<Match>
+    <Class name="uk.gov.dwp.engineering.recruitment.thirdparty.SeatReservationServiceImpl"/>
+</Match>
+
+</FindBugsFilter>

@@ -1,0 +1,5 @@
+target/
+!target/cinema-tickets-*.jar
+.git
+.gitignore
+*.md
